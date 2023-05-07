@@ -1,1 +1,1 @@
-Fullstack banking application in pure JavaScript
+Fullstack banking application in **vanilla** JavaScript
